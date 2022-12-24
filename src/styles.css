@@ -1,0 +1,37 @@
+.zzz {
+  color: #fff;
+  background-color: #379c45;
+  padding: 10px 12px;
+  border-radius: 30%;
+}
+
+.rdt_Table {
+  margin-bottom: 1rem;
+}
+.rdt_TableRow {
+  background-color: grey;
+}
+.rdt_TableCol {
+  color: black;
+  font-weight: bolder;
+}
+
+/* cabeçalho */
+.rdt_TableCol_Sortable {
+}
+.rdt_TableCell {
+}
+.rdt_TableFooter {
+}
+.rdt_TableHead {
+}
+.rdt_TableHeadRow {
+  background-color: green;
+}
+/* linha tabela */
+.rdt_TableBody {
+}
+
+.rdt_ExpanderRow {
+  margin: 30px 100px;
+}
